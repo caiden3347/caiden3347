@@ -1,1 +1,4 @@
-- 👋 H a l l o 
+- 👋 H e l l o
+- 👋 B o n j o u r
+- 👋 H a l l o
+- 👋 H a l l å
