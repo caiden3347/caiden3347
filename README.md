@@ -2,4 +2,3 @@
 - 👋 B o n j o u r
 - 👋 H a l l o
 - 👋 H a l l å
-- 👋 B u n ă
